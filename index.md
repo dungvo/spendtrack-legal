@@ -1,123 +1,84 @@
-# Privacy Policy
+# Privacy Policy for SpendTrack
 
-Last updated: May 17, 2026
+Last updated: May 19, 2026
 
-## SpendTrack Privacy Policy
+SpendTrack is a personal expense tracking and financial insight application designed to help users record expenses, review spending patterns, and manage simple financial habits. This Privacy Policy explains how SpendTrack handles information and data.
 
-SpendTrack (“the App”) is designed to help users track personal expenses, budgets, and financial activities.
+## 1. Data Stored by the App
 
-Your privacy is important to us. This Privacy Policy explains what information the App collects, how it is used, and how your data is protected.
+SpendTrack may store the following information locally on your device:
 
----
+- Expense records, including amount, currency, date, category, spending type, jar, cadence, and optional notes.
+- Timeline anchors, memories, or personal markers that you create.
+- App preferences, including language, theme, display currency, onboarding state, reminder settings, and exchange-rate settings.
+- Import and export files when you choose to create or import a JSON backup.
 
-## Information We Collect
+This information is used only to provide app functionality such as expense history, reports, analytics, insights, timeline views, reminders, import/export, and local personalization.
 
-### Financial and Expense Data
+## 2. Local-First Storage
 
-The App may store:
+SpendTrack stores your spending data locally on your device using the app’s private storage unless you explicitly export or share your data yourself.
 
-- Expense records
-- Budget information
-- Categories and tags
-- Notes entered by the user
-- Spending analytics generated from user activity
+The current version of SpendTrack does not require user accounts and does not operate a backend service for syncing your spending history.
 
-This information is used solely to provide the App’s core functionality.
+## 3. Data Collection
 
----
+SpendTrack does not intentionally collect, transmit, sell, rent, or share your personal spending records with the developer or third parties.
 
-## Local Storage
+If you choose to export your data, the exported JSON file is fully controlled by you. You are responsible for where and how you store, transfer, or share exported files.
 
-By default, your financial data is stored locally on your device.
+## 4. Notifications
 
-We do not sell your personal or financial information.
+SpendTrack may request notification permission if you enable spending reminders.
 
----
+Notifications are scheduled locally on your device and are used only to remind you to record or review spending activity. You may disable notifications at any time in iOS Settings or inside the app where supported.
 
-## Cloud Sync (If Enabled)
+## 5. Import, Export, and Deletion
 
-If cloud synchronization features are enabled, your data may be securely synced using Apple CloudKit services.
+SpendTrack allows you to:
 
-CloudKit data handling is managed by Apple and subject to Apple’s privacy and security standards.
+- Export your app data as a JSON file.
+- Import compatible JSON backup files.
+- Delete app data from within the app where supported.
 
-Learn more:
+You may also remove local app data by deleting the app from your device, subject to iOS backup and restore behavior.
 
-https://www.apple.com/legal/privacy/
+## 6. Third-Party Services
 
----
+The current version of SpendTrack does not include advertising SDKs, third-party analytics SDKs, or tracking SDKs.
 
-## Analytics and Diagnostics
+If you enable exchange-rate features, SpendTrack may request currency exchange-rate data from a third-party exchange-rate provider using standard network requests.
 
-The App may collect anonymous analytics and crash diagnostics to improve app stability and user experience.
+Exchange-rate requests do not include your personal spending records, notes, financial history, or identifiable user information.
 
-This may include:
+## 7. Financial Disclaimer
 
-- App performance metrics
-- Crash logs
-- Device type
-- iOS version
-- Feature usage statistics
+SpendTrack is a personal budgeting and expense tracking tool. It does not provide financial, investment, tax, accounting, or legal advice.
 
-This information is anonymized whenever possible and is never sold to third parties.
+Any insights, summaries, scores, projections, or analytics shown in the app are informational only and should not be treated as professional advice.
 
----
+## 8. Security
 
-## Data Sharing
+SpendTrack relies on iOS app sandboxing and device-level protections provided by Apple.
 
-We do not sell, rent, or trade your personal information.
+You should protect your device using a passcode, Face ID, or Touch ID. Exported files are outside SpendTrack’s control once they are saved or shared by you.
 
-We do not share your financial data with advertisers.
+## 9. Children’s Privacy
 
----
+SpendTrack is not intended to knowingly collect information from children.
 
-## Third-Party Services
+Because the app does not intentionally transmit personal data to the developer, the developer does not knowingly collect children’s personal information.
 
-The App may use third-party services such as:
+## 10. Changes to This Policy
 
-- Apple CloudKit
-- Firebase Analytics
-- Firebase Crashlytics
+This Privacy Policy may be updated if SpendTrack’s features or data practices change.
 
-These services may collect limited technical information necessary for their operation.
+The effective date at the top of this policy will be updated whenever changes are made.
 
----
+## 11. Contact
 
-## Data Security
+If you have questions about this Privacy Policy or SpendTrack, you may contact:
 
-We take reasonable measures to protect your information and reduce unauthorized access.
-
-However, no method of electronic storage or internet transmission is completely secure.
-
----
-
-## Children’s Privacy
-
-The App is not intended for children under 13 years old.
-
-We do not knowingly collect personal information from children.
-
----
-
-## Your Rights
-
-You may:
-
-- Delete your data directly within the App
-- Stop using cloud sync features at any time
-- Remove the App and its local data from your device
-
----
-
-## Changes to This Policy
-
-We may update this Privacy Policy from time to time.
-
-Changes will be reflected on this page with an updated revision date.
-
----
-
-## Contact
-
-If you have questions regarding this Privacy Policy, you may contact:
-
-cdung.vo@gmail.com
+Developer Name: Dung Vo 
+Support Email: cdung.vo@gmail.com
+Support Website: https://dungvo.github.io/spendtrack-legal/
