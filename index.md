@@ -1,4 +1,10 @@
-# Privacy Policy for SpendTrack
+---
+
+layout: page
+
+title: Privacy Policy for SpendTrack
+
+---
 
 Last updated: May 19, 2026
 
@@ -80,5 +86,7 @@ The effective date at the top of this policy will be updated whenever changes ar
 If you have questions about this Privacy Policy or SpendTrack, you may contact:
 
 Developer Name: Dung Vo 
+
 Support Email: cdung.vo@gmail.com
+
 Support Website: https://dungvo.github.io/spendtrack-legal/
