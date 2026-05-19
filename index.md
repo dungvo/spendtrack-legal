@@ -89,4 +89,4 @@ Developer Name: Dung Vo
 
 Support Email: cdung.vo@gmail.com
 
-Support Website: https://dungvo.github.io/spendtrack-legal/
+Support Website: [https://dungvo.github.io/spendtrack-legal/](https://dungvo.github.io/spendtrack-legal/)
