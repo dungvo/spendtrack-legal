@@ -6,7 +6,7 @@ title: Privacy Policy for SpendTrack
 
 ---
 
-Last updated: May 19, 2026
+Effective date: May 19, 2026
 
 SpendTrack is a personal expense tracking and financial insight application designed to help users record expenses, review spending patterns, and manage simple financial habits. This Privacy Policy explains how SpendTrack handles information and data.
 
